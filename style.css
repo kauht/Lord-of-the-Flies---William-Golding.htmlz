@@ -1,4 +1,6 @@
+
 .calibre {
+    background: #202020;
     display: block;
     font-size: 1em;
     line-height: 1.2;
@@ -10,8 +12,9 @@
     padding-right: 0
     }
 .calibre1 {
+    left: 30%;
     display: block;
-    height: 987px;
+    height: 977px;
     overflow: hidden;
     position: relative;
     width: 770px
