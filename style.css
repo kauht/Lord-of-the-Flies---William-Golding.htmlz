@@ -1,14 +1,13 @@
 
 .calibre {
     background: #202020;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
+    display: block;
     font-size: 1em;
     line-height: 1.2;
-    margin: 0;
-    padding: 0
+    margin: 0 auto;
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 770px
     }
 .calibre1 {
     display: block;
@@ -16,9 +15,7 @@
     overflow: hidden;
     position: relative;
     width: 770px;
-    transform: scale(1.2);
-    transform-origin: center center;
-    margin: auto
+    margin: 0 auto
     }
 .calibre2 {
     -webkit-user-select: none;
