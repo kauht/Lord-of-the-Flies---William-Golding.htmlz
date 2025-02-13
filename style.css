@@ -1,8 +1,4 @@
 
-html {
-    scroll-behavior: smooth;
-}
-
 .calibre {
     background: #202020;
     display: flex;
@@ -12,7 +8,6 @@ html {
     font-size: 1em;
     line-height: 1.2;
     margin: 0;
-    margin-top: -185px;
     padding: 0
     }
 .calibre1 {
@@ -23,8 +18,7 @@ html {
     width: 770px;
     transform: scale(1.2);
     transform-origin: center center;
-    margin: auto;
-    margin-bottom: -185px
+    margin: auto
     }
 .calibre2 {
     -webkit-user-select: none;
