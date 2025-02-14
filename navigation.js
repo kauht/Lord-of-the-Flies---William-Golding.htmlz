@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
         overflow-x: hidden;
     `;
 
+    
     // Create content container for scaling
     const contentContainer = document.createElement('div');
     contentContainer.style.cssText = `
