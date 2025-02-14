@@ -4,18 +4,20 @@
     display: block;
     font-size: 1em;
     line-height: 1.2;
-    margin: 0 auto;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
     padding-left: 0;
-    padding-right: 0;
-    max-width: 770px
+    padding-right: 0
     }
 .calibre1 {
+    
     display: block;
     height: 977px;
     overflow: hidden;
     position: relative;
-    width: 770px;
-    margin: 0 auto
+    width: 770px
     }
 .calibre2 {
     -webkit-user-select: none;
